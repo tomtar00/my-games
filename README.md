@@ -14,7 +14,47 @@ Turn-based space strategy game where you fight with other factions to take contr
 - Fog of war
 
 <p float="left">
-  <img src="images/pawsb-1.jpg" width="80%" />
+  <img src="images/paw_sb-1.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-2.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-3.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-4.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-5.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-6.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-7.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-8.jpg" width="40%" />
+  <img src="images/paw_sb-9.jpg" width="40%" /> 
+</p>
+<p float="left">
+  <img src="images/paw_sb-10.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-11.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-12.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-13.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-14.jpg" width="80%" />
+</p>
+<p float="left">
+  <img src="images/paw_sb-15.jpg" width="80%" />
 </p>
 
 ## Endless Horizon
