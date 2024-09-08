@@ -13,7 +13,7 @@ Turn-based space strategy game where you fight with other factions to take contr
 - Player can close the game while in an online match and will be notified when it is he's turn again
 - Fog of war
 
-<p float="left">
+<!--<p float="left">
   <img src="images/paw_sb-1.jpg" width="80%" />
 </p>
 <p float="left">
@@ -27,21 +27,21 @@ Turn-based space strategy game where you fight with other factions to take contr
 </p>
 <p float="left">
   <img src="images/paw_sb-5.jpg" width="80%" />
-</p>
+</p>-->
 <p float="left">
   <img src="images/paw_sb-6.jpg" width="80%" />
 </p>
 <p float="left">
   <img src="images/paw_sb-7.jpg" width="80%" />
 </p>
-<p float="left">
+<!-- <p float="left">
   <img src="images/paw_sb-8.jpg" width="40%" />
   <img src="images/paw_sb-9.jpg" width="40%" /> 
-</p>
+</p> -->
 <p float="left">
   <img src="images/paw_sb-10.jpg" width="80%" />
 </p>
-<p float="left">
+<!-- <p float="left">
   <img src="images/paw_sb-11.jpg" width="80%" />
 </p>
 <p float="left">
@@ -55,7 +55,11 @@ Turn-based space strategy game where you fight with other factions to take contr
 </p>
 <p float="left">
   <img src="images/paw_sb-15.jpg" width="80%" />
-</p>
+</p> -->
+
+
+https://github.com/user-attachments/assets/39ffa153-7607-449a-a696-6b6e6de3382b
+
 
 ## Endless Horizon
 
@@ -72,6 +76,10 @@ Endless runner type game where you have to avoid obstacles and fight with enemy 
   <img src="images/eh-2.jpg" width="30%" /> 
 </p>
 
+
+https://github.com/user-attachments/assets/4a121d8f-46b1-4c88-ba52-55b6aeee795b
+
+
 ## Planets At War
 
 Real-time space strategy game where you fight with other factions to take control over the star system.
@@ -86,3 +94,10 @@ Real-time space strategy game where you fight with other factions to take contro
   <img src="images/paw-1.jpg" width="49%" />
   <img src="images/paw-2.jpg" width="49%" /> 
 </p>
+
+Video:
+<div align="left">
+      <a href="https://youtu.be/99hX9RQbWZM">
+         <img src="https://img.youtube.com/vi/99hX9RQbWZM/0.jpg" style="width:50%;">
+      </a>
+</div>
